@@ -23,3 +23,12 @@ Wrap any **View** with a **BlockView** to ensure that the input won't go to the 
 Whether the view should blocked the input.
 
 Default: `true`
+
+## Meta
+
+Written by [Maria Julia Racca](https://github.com/mjracca) and [Martin Giachetti](https://github.com/mgiachetti).
+
+Released under the MIT License: www.opensource.org/licenses/mit-license.php
+
+
+
