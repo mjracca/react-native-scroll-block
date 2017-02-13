@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import "RCTView.h"
+#import <React/RCTView.h>
 
 @class BlockView;
 
